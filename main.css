@@ -1,1 +1,24 @@
-//css to come
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+.main {
+	padding: 100px 0;
+	margin: 30px;
+	font-family: 'Brandon Grotesque', 'Proxima Nova', Helvetica, sans-serif;
+	font-size: 56px;
+	background-image: url("https://static.pexels.com/photos/34676/pexels-photo.jpg");
+	background-size: cover;
+
+}
+
+.main h1{
+	color: #ffcccc;
+}
+
+.main p{
+	color: #ffffff;
+}

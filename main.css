@@ -21,6 +21,10 @@
 
 }
 
+.nav a{
+	text-decoration: none;
+	color:#ffe6e6;
+}
 
 body {
 	height: 100%;

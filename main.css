@@ -36,12 +36,11 @@ body {
 
 .main {
 	padding: 100px 0;
-	margin: 30px;
 	font-family: 'Brandon Grotesque', 'Proxima Nova', Helvetica, sans-serif;
 	font-size: 56px;
 	background-image: url("https://static.pexels.com/photos/34676/pexels-photo.jpg");
 	background-size: cover;
-	border: 5px solid #ffe6e6;
+	
 
 }
 

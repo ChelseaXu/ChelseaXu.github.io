@@ -15,6 +15,9 @@ body {
   font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+section {
+  height: 100%;
+}
 .text-vertical-center {
   display: table-cell;
   text-align: center;
@@ -172,6 +175,10 @@ hr.small {
 }
 
 
+.rounded-circle {
+  width: 100px;
+  height: auto;
+}
 /* Services */
 
 .services {

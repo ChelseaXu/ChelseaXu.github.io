@@ -152,13 +152,10 @@ background-color: #C0D9D9;}
 
 .experience-section {
   color: white;
-  
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover; 
  padding-top: 150px;
   padding-bottom: 150px;}
+
 
 .portfolio-section{
 color: white;
@@ -171,6 +168,11 @@ color: white;
   padding-bottom: 150px;
   background-color: #C0D9D9
 
+}
+
+.resume-list {
+  text-align: left;
+  padding-bottom: 25px;
 }
 
 .contact-section{

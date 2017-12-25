@@ -9,7 +9,7 @@ body {
   width: 100%;
   height: 100%;
   color: white;
-  background-color: #FF7256; }
+  background-color: #ff8e77; }
 
 html {
   width: 100%;
@@ -51,7 +51,7 @@ a {
   margin-bottom: 0;
   text-transform: uppercase;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  background-color: #FF7256; }
+  background-color: #ff8e77; }
   #mainNav .navbar-toggler {
     font-size: 14px;
     padding: 11px;
@@ -86,7 +86,7 @@ a {
         padding-top: 10px;
         padding-bottom: 10px;
         border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-        background: #FF7256; }
+        background: #ff8e77;}
       #mainNav .nav-link.active {
         outline: none;
         background-color: rgba(255, 255, 255, 0.3); }
@@ -144,7 +144,8 @@ a {
 .about-section {
   padding-top: 150px;
   padding-bottom: 150px; 
-background-color: #C0D9D9;}
+  background: #FF7256
+}
 
 .experience-section {
   color: white;
@@ -162,7 +163,7 @@ color: white;
   background-size: cover; 
  padding-top: 150px;
   padding-bottom: 150px;
-  background-color: #C0D9D9
+  background: #FF7256
 
 }
 

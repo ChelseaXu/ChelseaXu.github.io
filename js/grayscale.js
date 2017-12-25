@@ -42,14 +42,9 @@
 })(jQuery); // End of use strict
 
 //hide navbar at the top of the page but display when on other pages
-$( document ).ready(function() {      
-    var isMobile = window.matchMedia("only screen and (max-width: 760px)");
-
-    if (!isMobile.matches) {
-        //Conditional script here
-        $('#mainNav').hide();
+$('#mainNav').hide();
 $(window).scroll(function() {
-    if ($(this).scrollTop() >= 650)
+    if ($(this).scrollTop() >= 600)
      {
         $('#mainNav').fadeIn();
      }
@@ -58,9 +53,6 @@ $(window).scroll(function() {
       $('#mainNav').fadeOut();
      }
  });
-    }
- });
-
 // Google Maps Scripts
 var map = null;
 // When the window has finished loading create our google map below
